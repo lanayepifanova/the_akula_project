@@ -1,4 +1,4 @@
-# The Akula Project 🌊
+# The Akula Project 
 
 Welcome to the official website for **The Akula Project**, an educational initiative dedicated to supporting first-generation, low-income, and situationally disadvantaged students. 
 
@@ -6,7 +6,7 @@ We provide **free math tutoring**, **tech & finance bootcamps**, and **mentorshi
 
 ---
 
-## 🚀 Features
+## Features
 
 - Responsive, mobile-friendly design
 - Clean corporate purple theme (light/dark purple)
