@@ -2,8 +2,6 @@
 
 Welcome to the official website for **The Akula Project**, an educational initiative dedicated to supporting first-generation, low-income, and situationally disadvantaged students. 
 
-We provide **free math tutoring**, **tech & finance bootcamps**, and **mentorship programs** to help students achieve their academic and career goals.
-
 ---
 
 ## Features
@@ -14,7 +12,6 @@ We provide **free math tutoring**, **tech & finance bootcamps**, and **mentorshi
   - Home
   - Mission
   - Math Tutoring
-  - Bootcamps
   - Impact Report
-- Application links for tutoring and bootcamp programs
+- Application links for all programs
 - Built with **HTML** + **TailwindCSS**
